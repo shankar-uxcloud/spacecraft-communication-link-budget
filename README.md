@@ -52,6 +52,5 @@ This is a preliminary educational study using a notional mission scenario. Any a
 
 ## Author
 
-P. Shankar
+P SHANKAR
 
-Spacecraft Communications Intern — YuvaIntern
